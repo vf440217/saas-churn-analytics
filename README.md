@@ -41,8 +41,7 @@ The dashboard shows:
 - top churn reasons
 - MRR by plan tier
 
-Dashboard screenshot: 
-{}
+![Dashboard V1](images/dashboard_v1.png)
 
 ## Key Findings
 - The dataset contains 500 unique accounts.
