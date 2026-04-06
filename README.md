@@ -68,6 +68,11 @@ From a business point of view, the most important segment is not only the one wi
 - Support and usage aggregates did not show a strong separating signal in the current analysis.
 - The dashboard is a V1 version and focuses on the main metrics only.
 
+## Product Hypotheses
+- Support-related churn may be driven by patterns that are not visible in the current aggregated data. A deeper review of support interactions could help identify churn-related issues. Key metrics: satisfaction score, support ticket volume.
+- Targeted retention offers for budget-sensitive accounts may reduce churn and improve retention without significant revenue loss. Key metrics: churn rate, retention rate, revenue.
+- Non-churned accounts may share stable behavior patterns that can help explain retention. A deeper comparison of stable and churned accounts could reveal useful retention signals. Key metrics: churn rate, unique non-churned accounts in the long term.
+
 ## Next Steps
 Possible next steps for deeper product analysis:
 
